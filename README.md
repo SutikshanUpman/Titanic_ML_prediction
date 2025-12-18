@@ -86,15 +86,3 @@ Predictions were generated on test.csv and saved in Kaggle-compatible format.
 This file can be directly uploaded to Kaggle.
 
 ---
-
-## Project Structure
-
-.
-├── data/
-│   ├── train.csv
-│   └── test.csv
-├── notebooks/
-│   └── titanic_pipeline.ipynb
-├── submission.csv
-├── requirements.txt
-└── README.md
